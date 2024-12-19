@@ -1,12 +1,11 @@
 # Fampay-Assingment
 
 1. Clone this repository:
-
 git clone https://github.com/your-username/flutter-project.git
 cd flutter-project
-Install Flutter dependencies:
 
-2. flutter pub get
+2. Install Flutter dependencies:
+flutter pub get
 Run the app on your device or emulator:
 
 3. flutter run
